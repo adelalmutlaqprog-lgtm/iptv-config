@@ -1,1 +1,1 @@
-http://faster80.xyz:80/get.php?username=25495217185753&password=89468317066456&output=ts&type=m3u
+
